@@ -1,0 +1,27 @@
+{
+  "name": "loopback-connector-yunpian",
+  "version": "0.0.1",
+  "description": "YunPian SMS Connector for LoopBack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mackwan84/loopback-connector-yunpian.git"
+  },
+  "keywords": [
+    "loopback",
+    "sms",
+    "yunpian"
+  ],
+  "author": "Mac Kwan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mackwan84/loopback-connector-yunpian/issues"
+  },
+  "homepage": "https://github.com/mackwan84/loopback-connector-yunpian#readme",
+  "dependencies": {
+    "request": "^2.62.0"
+  }
+}
