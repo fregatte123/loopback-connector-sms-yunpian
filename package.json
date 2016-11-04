@@ -1,5 +1,5 @@
 {
-  "name": "loopback-connector-yunpian",
+  "name": "loopback-connector-sms-yunpian",
   "version": "0.0.1",
   "description": "YunPian SMS Connector for LoopBack",
   "main": "index.js",
